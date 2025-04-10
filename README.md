@@ -17,12 +17,12 @@
             text-align: center;
         }
         nav {
-            background-color: #005fa3;
+            background-color: #007fa3;
             padding: 10px;
             text-align: center;
         }
         nav a {
-            color: white;
+            color: pink;
             text-decoration: none;
             margin: 0 15px;
             font-weight: bold;
@@ -31,7 +31,7 @@
             padding: 20px;
         }
         footer {
-            background-color: #ddd;
+            background-color: #ppp;
             text-align: center;
             padding: 15px;
             margin-top: 20px;
