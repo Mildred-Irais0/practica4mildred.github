@@ -3,49 +3,61 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Mi Página Web</title>
+    <title>Mi Primera Página Web</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
             margin: 0;
             padding: 0;
         }
-
         header {
-            background-color: #4CAF50;
+            background-color: #0077cc;
             color: white;
-            padding: 20px 10px;
+            padding: 20px;
             text-align: center;
         }
-
+        nav {
+            background-color: #005fa3;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
         main {
             padding: 20px;
         }
-
         footer {
             background-color: #ddd;
             text-align: center;
-            padding: 10px;
+            padding: 15px;
             margin-top: 20px;
         }
     </style>
 </head>
 <body>
-
     <header>
         <h1>Bienvenido a Mi Página Web</h1>
     </header>
 
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Sobre mí</a>
+        <a href="#">Proyectos</a>
+        <a href="#">Contacto</a>
+    </nav>
+
     <main>
-        <p>Hola, esta es una página web básica creada con HTML.</p>
-        <p>¡Puedes editar este contenido como quieras!</p>
+        <h2>Hola, mundo</h2>
+        <p>Esta es mi primera página web hecha con HTML. Aquí puedo escribir lo que quiera.</p>
     </main>
 
     <footer>
-        <p>&copy; 2025 Mi Sitio Web</p>
+        <p>© 2025 Mi Nombre. Todos los derechos reservados.</p>
     </footer>
-
 </body>
 </html>
 # practica4mildred.github
