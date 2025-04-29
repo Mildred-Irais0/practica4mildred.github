@@ -42,7 +42,7 @@
     <header>
         <h1>Bienvenido a Mi Página Web</h1>
     </header>
- El nombre "ocoxal" proviene del náhuatl "ocotl" (ocote) y "xalli" (arena), que puede interpretarse como "arena de ocote". 
+ 
     <nav>
         <a href="#">Inicio</a>
         <a href="#">Sobre mí</a>
@@ -52,7 +52,8 @@
 
     <main>
         <h2>Hola, mundo</h2>
-        <p>Esta es mi primera página web hecha con HTML. Aquí puedo escribir lo que quiera.</p>
+        <p>Esta es mi primera página web hecha con HTML.  El nombre "ocoxal" proviene del náhuatl "ocotl" (ocote) y "xalli" (arena), que puede interpretarse como "arena de ocote". 
+    <nav> </p>
     </main>
 
     <footer>
