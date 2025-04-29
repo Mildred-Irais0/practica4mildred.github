@@ -42,7 +42,7 @@
     <header>
         <h1>Bienvenido a Mi Página Web</h1>
     </header>
-
+ El nombre "ocoxal" proviene del náhuatl "ocotl" (ocote) y "xalli" (arena), que puede interpretarse como "arena de ocote". 
     <nav>
         <a href="#">Inicio</a>
         <a href="#">Sobre mí</a>
