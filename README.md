@@ -51,8 +51,9 @@
     </nav>
 
     <main>
-        <h2>HOLA MUNDO</h2>
-        <p> El nombre "ocoxal" proviene del náhuatl "ocotl" (ocote) y "xalli" (arena), que puede interpretarse como "arena de ocote". 
+        <h2>HELLO</h2>
+        <p> El nombre "ocoxal" proviene del náhuatl "ocotl" (ocote) y "xalli" (arena), que puede interpretarse como "arena de ocote".El tejido de ocoxal o tejido de pino es un tejido muy sustentable,![Uploading image.png…]()
+ 
     <nav> </p>
     </main>
 
